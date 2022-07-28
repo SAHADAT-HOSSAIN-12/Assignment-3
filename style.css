@@ -28,9 +28,9 @@ ul{
     display: flex;
     align-items: center;
 } */
-/* .opacity-ctl{
-    background-image: linear-gradient();
-} */
+.opacity-ctl{
+    filter: grayscale(30%);
+}
 .head-title{
     font-size: 60px;
 }
