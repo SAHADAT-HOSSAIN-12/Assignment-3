@@ -1,33 +1,15 @@
 *{
-    margin: 0;
-    padding: 0;
-    outline: 0;
-
     font-family: 'Arima', cursive;
         font-family: 'Open Sans', sans-serif;
         font-family: 'Poppins', sans-serif;
         font-family: 'Roboto', sans-serif;
         /* font-family: 'Rubik Moonrocks', cursive; */
 }
-/* a{
-    text-decoration: none;
-}
-img{
-    width: 100%;
-}
-ul{
-    list-style: none;
-}
-.container{
-    margin: 0 180px;
-} */
+
 /* ========================================================================================================
     Header Section Style
 -------------------------------------------------------------------------------------------------------- */
-/* .head-details{
-    display: flex;
-    align-items: center;
-} */
+
 .opacity-ctl{
     filter: grayscale(30%);
 }
@@ -55,19 +37,4 @@ ul{
 -------------------------------------------------------------------------------------------------------- */
 /* ========================================================================================================
     Footer Section Style
--------------------------------------------------------------------------------------------------------- */
-/* ========================================================================================================
-    icon link
-
-        <i class="fa-solid fa-cart-shopping"></i>
-                <i class="fa-brands fa-facebook"></i>
-                <i class="fa-solid fa-laptop"></i>
-                <i class="fa-brands fa-twitter"></i>
-                <i class="fa-brands fa-linkedin-in"></i>
-                    <i class="fa-brands fa-linkedin"></i>
-                <i class="fa-brands fa-tiktok"></i>
-                <i class="fa-brands fa-instagram"></i>
-                <i class="fa-solid fa-bars"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star-half-stroke"></i>
 -------------------------------------------------------------------------------------------------------- */
